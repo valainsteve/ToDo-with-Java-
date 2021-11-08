@@ -1,0 +1,12 @@
+Rental Record for Alice
+	Marvel Movie	6.5
+		HD Quality
+	Disney Movie	22.4
+		4K Quality
+		Discount: 30,00 %
+	Old Movie	0.5
+		HD Quality
+	Children Movie	1.5
+		HD Quality
+Amount owed is 30.9
+You earned 4 frequent renter points

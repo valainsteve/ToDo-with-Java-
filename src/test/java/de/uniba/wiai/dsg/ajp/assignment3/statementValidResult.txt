@@ -1,0 +1,10 @@
+Rental Record for Alice
+	title 	10.012345
+		HD Quality
+	title 2	7.0
+		4K Quality
+		Discount: 50,12 %
+	title 3	12.3
+		HD Quality
+Amount owed is 29.312345
+You earned 3 frequent renter points
